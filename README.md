@@ -34,7 +34,7 @@ Relevant tables from MIMIC-III were joined to include demographic information, a
 The notebook implements:
 - Exploratory Data Analysis (EDA)
 - Feature scaling and encoding
-- Model training using regression algorithms (e.g., Linear Regression, Random Forest, XGBoost)
+- Model training using NN
 - Evaluation using standard metrics (MAE, RMSE, R²)
 - Comparison and discussion of model performance
 
