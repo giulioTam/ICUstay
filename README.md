@@ -50,7 +50,6 @@ The study highlights the predictive potential of clinical features for early LOS
 - Python 3  
 - pandas, NumPy, scikit-learn, matplotlib, seaborn  
 - Jupyter Notebook  
-- SQL (for MIMIC-III data extraction)
 
 ---
 
